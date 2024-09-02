@@ -1,0 +1,12 @@
+To run the project
+
+1. make npm install
+
+run the server using the command
+yarn dev or npm run dev
+
+click the url: http://localhost:3000
+
+To Login use the default email and password below:
+Email: ebkuser@gmail.com
+Password: admin123
