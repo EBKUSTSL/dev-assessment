@@ -1,7 +1,6 @@
-### `install`
+
+Run npm #### `install`
 
 Install tailwindcss
 
-In the project directory, you can run:
-
-### `npm start`
+In the project directory, you can run: #### `npm start`
